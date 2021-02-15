@@ -159,14 +159,15 @@ h1 {
 }
 .menu2{
   background-color: #f54f4f;
+  color: white;
 }
 .menu3{
   background-color: #00ffff;
 }
 section {
 	font-family:helvetica,sans-serif;
-	
-	font-weight: bold; 
+	font-size: 120%;
+  font-weight: bold; 
 	border: 1px solid black;
 	margin-top: -1px;
 	margin-right: -1px;
@@ -176,7 +177,9 @@ section {
 }
 .desc{
   font-family:helvetica,sans-serif;
+  font-weight: bold;
 	clear: both;
+  font-size: 90%;
 	margin: 2%;
   padding: .5%;
 	
